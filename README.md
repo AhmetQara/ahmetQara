@@ -10,8 +10,7 @@
 
 
 [![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmetQara?theme=tokyonight)](https://git.io/awesome-stats-card)
-![A](https://raw.githubusercontent.com/ahmetQara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![B](https://raw.githubusercontent.com/ahmetQara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetQara?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)![B](https://raw.githubusercontent.com/ahmetQara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!---
 ahmetQara/ahmetQara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
