@@ -11,7 +11,7 @@
 
 
 
-![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetQara&theme=github_dark&show_icons=true)
+// ![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetQara&theme=github_dark&show_icons=true)
 [![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmetQara?theme=tokyonight)](https://git.io/awesome-stats-card)
 <!---
 ahmetQara/ahmetQara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
