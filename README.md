@@ -9,7 +9,7 @@
 - 🏆 HackerRank https://www.hackerrank.com/ahmetkara2022
 
 
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmetQara?theme=tokyonight)](https://git.io/awesome-stats-card)
+[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmetQara?theme=highcontrast)](https://git.io/awesome-stats-card)
 
 <!---
 ahmetQara/ahmetQara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
