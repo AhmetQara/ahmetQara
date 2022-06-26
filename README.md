@@ -10,7 +10,7 @@
 
 
 [![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmetQara?theme=tokyonight)](https://git.io/awesome-stats-card)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmetQara/Student-Registration-System)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ahmetQara/ahmetQara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
