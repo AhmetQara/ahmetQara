@@ -4,7 +4,7 @@
 - 📫 Contact mail ahmetkarajobs@gmail.com
 - ✍️ My Blog https://ahmetqara.github.io/
 - ‍💼 Linkedin https://www.linkedin.com/in/ahmet-kara-8a64211a6/
-- 🤵 My latest Resume https://github.com/ahmetQara/Resume/blob/main/AHMET_KARA_CV.pdf
+- 🤵 My latest Resume https://github.com/AhmetQara/Resume/blob/main/CV_Ahmet_KARA.pdf
 - 🐱‍💻 TryHackMe https://tryhackme.com/p/AhmetKara
 - 🏆 HackerRank https://www.hackerrank.com/ahmetkara2022
 
