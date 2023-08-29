@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@ahmetkara](https://github.com/ahmetQara)
 - 👀 I’m interested in CyberSecurity
-- 🌱 I'm On My Way To Become A Web Penetration Tester
+- 🌱 I'm On The Way To Improve My Web Penetration Testing Expertise
 - 📫 Contact mail ahmetkara.career@gmail.com
 - ✍️ My Blog https://ahmetqara.github.io/
 - ‍💼 Linkedin https://www.linkedin.com/in/ahmet-kara-8a64211a6/
