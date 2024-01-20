@@ -1,7 +1,6 @@
 - 👋 Hi, I’m [@ahmetkara](https://github.com/ahmetQara)
 - ✍️ My Blog https://ahmetqara.github.io/
 - ‍💼 Linkedin https://www.linkedin.com/in/ahmet-kara-8a64211a6/
-- 🤵 My latest Resume https://github.com/AhmetQara/Resume/blob/main/CV_Ahmet_KARA.pdf
 - 🐱‍💻 TryHackMe https://tryhackme.com/p/AhmetKara
 - 🏆 HackerRank https://www.hackerrank.com/ahmetkara2022
 
